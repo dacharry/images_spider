@@ -6,3 +6,6 @@ spider_pratice
 ## jianshu_spider
 - 爬去的简书文章信息，并保存在mysql
 - 利用selenium加载动态网页，在middleware中返回response。
+## boss
+- boss直聘网站关于python的爬去
+- 用代理ip来解决ip封禁问题
