@@ -1,4 +1,4 @@
-# images_spider
+spider_pratice
 几个网站的图片爬去
 ## bmw
 - 第一个基本spider爬取汽车之家宝马5系的缩略图
