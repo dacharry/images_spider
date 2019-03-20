@@ -9,3 +9,8 @@
 ## boss
 - boss直聘网站关于python的爬去
 - 用代理ip来解决ip封禁问题
+
+## amazon和amazo_redis
+- 爬去amazon的所有图书的信息，包括价格，名字，作者，评论数等
+- 一个是crawlspider，一个是rediscrawlspider分布式爬去
+- 难点在于电子书与纸质书的标签是不一样的，还有就是提取出合适的数据
